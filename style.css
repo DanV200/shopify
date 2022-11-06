@@ -1,0 +1,18 @@
+ p{
+    color: rgb(195, 17, 183);
+    border: 2px solid green;
+}
+h1{
+    color: coral;
+    border: 10px dotted royalblue;
+    text-align:center;
+}
+h2{
+    color:chartreuse;
+    border: 10px ridge firebrick;
+}
+#first{
+    color: rgb(0, 128, 41);
+    border: 8px double navy;
+
+}
